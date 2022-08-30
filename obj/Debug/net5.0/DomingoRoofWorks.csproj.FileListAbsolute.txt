@@ -1,0 +1,570 @@
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorAssemblyInfo.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorAssemblyInfo.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\appsettings.json
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.exe
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.deps.json
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.runtimeconfig.json
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.runtimeconfig.dev.json
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ref\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.Views.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.Views.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\staticwebassets\DomingoRoofWorks.StaticWebAssets.Manifest.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\staticwebassets\DomingoRoofWorks.StaticWebAssets.xml
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\scopedcss\bundle\DomingoRoofWorks.styles.css
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.TagHelpers.input.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.TagHelpers.output.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorCoreGenerate.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorTargetAssemblyInfo.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorTargetAssemblyInfo.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.Views.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.CopyComplete
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\ref\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.pdb
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.genruntimeconfig.cache
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\POE\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\appsettings.json
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.exe
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.deps.json
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.runtimeconfig.json
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.runtimeconfig.dev.json
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ref\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.Views.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.Views.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorAssemblyInfo.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorAssemblyInfo.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\staticwebassets\DomingoRoofWorks.StaticWebAssets.Manifest.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\staticwebassets\DomingoRoofWorks.StaticWebAssets.xml
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\scopedcss\bundle\DomingoRoofWorks.styles.css
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.TagHelpers.input.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.TagHelpers.output.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorCoreGenerate.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorTargetAssemblyInfo.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorTargetAssemblyInfo.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.Views.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.CopyComplete
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\ref\DomingoRoofWorks.dll
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.pdb
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.genruntimeconfig.cache
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Create.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Delete.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Details.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Edit.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Index.cshtml.g.cs
+C:\Users\Keshan\Desktop\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Display.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\appsettings.Development.json
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\appsettings.json
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.exe
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.deps.json
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.runtimeconfig.json
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.runtimeconfig.dev.json
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ref\DomingoRoofWorks.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.Views.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\DomingoRoofWorks.Views.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Humanizer.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.AssemblyReference.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.AssemblyInfoInputs.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.AssemblyInfo.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.CoreCompileInputs.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.MvcApplicationPartsAssemblyInfo.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorAssemblyInfo.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorAssemblyInfo.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\staticwebassets\DomingoRoofWorks.StaticWebAssets.Manifest.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\staticwebassets\DomingoRoofWorks.StaticWebAssets.xml
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\scopedcss\bundle\DomingoRoofWorks.styles.css
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.TagHelpers.input.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.TagHelpers.output.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorCoreGenerate.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Customers\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\EmployeeJobs\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Display.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Invoice\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobAddresses\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\JobMaterials\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Jobs\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Materials\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Create.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Delete.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Details.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Edit.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Rates\Index.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorTargetAssemblyInfo.cache
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.RazorTargetAssemblyInfo.cs
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.Views.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.csproj.CopyComplete
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\ref\DomingoRoofWorks.dll
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.pdb
+E:\Studies\Varsity College\Year 2\Semester 1\CLDV6211 - Cloud Development A\Portfolio Of Evidence\DomingoRoofWorks\obj\Debug\net5.0\DomingoRoofWorks.genruntimeconfig.cache

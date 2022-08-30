@@ -1,0 +1,87 @@
+﻿@using DomingoRoofWorks.Models;
+@model GenerateInvoice
+
+@{
+    ViewData["Title"] = "View";
+}
+
+
+
+
+<h1>Invoice for Job Card Number @Model.jobNumber</h1>
+
+<br>
+<br>
+
+<h4>Customer Name</h4>
+<small>@Model.customer.FullName</small>
+
+<br>
+<br>
+
+<h4>Address</h4>
+<small>@Model.jobAddress.HouseNumber</small>
+<small>@Model.jobAddress.StreetName</small>
+<small>@Model.jobAddress.City</small>
+<small>@Model.jobAddress.Province</small>
+<small>@Model.jobAddress.PostalCode</small>
+
+<br>
+<br>
+
+<h4>Employees on the Job</h4>
+@foreach (var e in Model.lstEmployees)
+{
+<p> @e.EmployeeID @e.FullName </p>
+}
+
+<br>
+<br>
+
+<h4>Materials used on the Job</h4>
+@foreach (var m in Model.lstMaterials)
+{
+    @foreach (var jm in Model.lstJobMaterials)
+    {
+        if (m.MaterialID.Equals(jm.MaterialID))
+        {
+<p>
+    <strong>ID: </strong>@m.MaterialID
+    <strong>Description: </strong> @m.Name
+    <strong>Quantity: </strong> @jm.Quantity
+</p>
+        }
+    }
+}
+
+<br>
+<br>
+
+<h4>Rates</h4>
+<small>@Model.rates.Type - </small>
+<small>R @Model.rates.Rate</small>
+
+<br>
+<br>
+
+<h4>Number of Days</h4>
+<small>@Model.jobs.NumberOfDays</small>
+
+<br>
+<br>
+
+<h4>Subtotal</h4>
+<small>R @Model.subTotal</small>
+
+<br>
+<br>
+
+<h4>VAT</h4>
+<small>R @Model.VAT</small>
+
+<br>
+<br>
+<h4>Total</h4>
+<small>R @Model.total</small>
+
+

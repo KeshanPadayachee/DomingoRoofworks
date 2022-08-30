@@ -1,0 +1,22 @@
+﻿
+@model IEnumerable<DomingoRoofWorks.Models.GenerateInvoice>
+
+@{
+    ViewData["Title"] = "Invoice";
+}
+
+ @*Referencing
+ Microsoft Docs
+ https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-5.0
+ 02/07/2021*@
+
+<h1>Generate an Invoice</h1>
+<br>
+<br>
+<h1 style="font-weight: 200; font-size: 36px">Generate an invoice for a job below</h1>
+<form asp-controller="Invoice" asp-action="Display">
+    <p>
+        Job Card Number: <input type="text" name="cardNo" />
+        <input type="submit" value="Generate Invoice" />
+    </p>
+</form>

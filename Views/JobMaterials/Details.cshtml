@@ -1,0 +1,36 @@
+﻿@model DomingoRoofWorks.Models.JobMaterial
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>JobMaterial</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CardNo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CardNo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaterialID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaterialID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.JobMaterialID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
